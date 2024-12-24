@@ -6,6 +6,14 @@ body {
   position: relative;
   background: transparent;
 }
+.my-custom-button {
+
+
+  background-color: #2ebfc7; /* Example: Yellow color */
+
+  color: #333; /* Example: Dark text color */
+
+}
 
 body::before {
   backdrop-filter: blur(5px);
